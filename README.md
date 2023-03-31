@@ -25,7 +25,7 @@ The Online Education market would be worth $286.62bn by 2023, with a compound an
 The goal is to analyze and build an ML model to create a profile of leads more likely to convert to paid customers by identifying the factors driving the lead conversion.
 
 
-## <a href="https://github.com/krishnapatury/DataScience/blob/main/Pima_Indians_Diabetes_Analysis.ipynb" rel="nofollow">Diabetes Data Analysis</a>
+## <a href="https://github.com/krishnapatury/DataScience/blob/main/Pima_Indians_Diabetes_Analysis.ipynb" rel="nofollow">Diabetes Exploratory Data Analysis</a>
 
 Diabetes is one of the most frequent diseases worldwide and the number of diabetic patients are growing over the years. The main cause of diabetes remains unknown, yet scientists believe that both genetic factors and environmental lifestyle play a major role in diabetes.
 

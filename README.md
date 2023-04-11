@@ -24,6 +24,13 @@ The Online Education market would be worth $286.62bn by 2023, with a compound an
 <b>Objective:</b>
 The goal is to analyze and build an ML model to create a profile of leads more likely to convert to paid customers by identifying the factors driving the lead conversion.
 
+## <a href="https://github.com/krishnapatury/DataScience/blob/main/Used_Cars_Price_Prediction.ipynb" rel="nofollow">Used Cars Price Prediction</a>
+There is a huge demand for used cars in the Indian Market today. As sales of new cars have slowed down in the recent past, the pre-owned car market has continued to grow over the past few years and is now larger than the new car market. Cars4U is a budding tech start-up that aims to find footholes in this market. In 2018-19, while new car sales were recorded at 3.6 million units, around 4 million second-hand cars were bought and sold. There is a slowdown in new car sales and that could mean that the demand is shifting towards the pre-owned market. In fact, some car owners replace their old vehicles with pre-owned cars instead of buying a new automobile.
+
+Unlike new cars, where price and supply are fairly deterministic and managed by OEMs (Original Equipment Manufacturer / except for dealership level discounts which come into play only in the last stage of the customer journey), the used car market is a very different beast, with large uncertainties in both pricing and supply. Several factors, including mileage, brand, model, year, etc. can influence the actual worth of a car. From the perspective of a seller, it is not an easy task to set the correct price of a used car. Keeping this in mind, the pricing scheme of these used cars becomes important in order to grow in the market.
+
+<b>The objective:</b>
+Coming up with a pricing model that can effectively predict the price of used cars and can help the business in devising profitable strategies using differential pricing.
 
 ## <a href="https://github.com/krishnapatury/DataScience/blob/main/Pima_Indians_Diabetes_Analysis.ipynb" rel="nofollow">Diabetes Exploratory Data Analysis</a>
 

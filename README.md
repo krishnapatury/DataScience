@@ -10,6 +10,7 @@ Malaria is a contagious disease caused by infected female Anopheles mosquitoes b
 <b>Objective:</b>
 Building an efficient computer vision model to identify whether a given image of a red blood cell is infected with malaria or not, and classify the same as parasitized or uninfected, respectively. Achieve faster results and better accuracy in malaria classification by reducing variability due to manual intervention.
 
+<a href="https://drive.google.com/file/d/1ETusMg-cbF2QMpsLVqp1Zapa-0_vHMlR/view?usp=share_link">Final Presentation</a>
 
 ## <a href="https://github.com/krishnapatury/DataScience/blob/main/DeepLearning_SVHN_Digit_Recognition.ipynb" rel="nofollow">Street View Housing Number Digit Recognition</a> 
 One of the most interesting tasks in deep learning is to recognize objects in natural scenes. The Street View Housing Numbers (SVHN), a popular image recognition, dataset contains over 600,000 labeled digits cropped from street-level photos. It has been used in neural networks created by Google to improve the map quality by automatically transcribing the address numbers from a patch of pixels. The transcribed number with a known street address helps pinpoint the location of the building it represents.

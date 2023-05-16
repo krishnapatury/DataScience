@@ -1,7 +1,7 @@
 # <a href="https://www.linkedin.com/in/krishnapatury/" rel="nofollow">Krishna Patury</a> - <i>Data Science Portfolio</i>
 
 
-This repository contains selections of projects submitted by Krishna Patury as part of the Applied Data Science Program offered by MIT. These projects demonstrate various concepts, technologies, and applications in Data Science and Machine Learning.
+This repository contains selections of projects I completed as part of the Applied Data Science Program offered by MIT. These projects demonstrate various concepts, technologies, and applications in Data Science and Machine Learning.
 
 
 ## <a href="https://github.com/krishnapatury/DataScience/blob/main/KrishnaPatury_Malaria_Detection.ipynb" rel="nofollow">Malaria Detection</a> 
